@@ -1,5 +1,5 @@
 {
-    "name": "taocomp/php-e-invoice-it",
+    "name": "ziostanko/php-e-invoice-it",
     "description": "A PHP package for managing italian e-invoice and notice XML formats",
     "require": {
         "php": "^7",
